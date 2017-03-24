@@ -4,3 +4,5 @@
 * includes all of lodash as I'm struggling to memorize it all
 * http://devdocs.io/javascript-object/
 * test cases where fairly simple (primitive) variables return differing values for === and ==
+* bash secrets http://samrowe.com/wordpress/advancing-in-the-bash-shell/
+* git secrets 
